@@ -41,18 +41,32 @@
       year: 2012-2013      
     - title: Marketing.
       institution: Petals Link
-      year: 2008-2011    
-
+      year: 2008-2011
+    - title: Research Trainee, Physics
+      institution: Oxford University
+      year: 2007-2007
+      
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2020
       items: 
-        - <a href='http://www.cfgi-geologie.fr/?event=prix-jean-goguel-2020'>Jean Goguel Award<\a> — young researcher in Engineering Geology, CFGI, 2020.
+        - <a href='http://www.cfgi-geologie.fr/?event=prix-jean-goguel-2020'>
+        Jean Goguel Award</a> — young researcher in Engineering Geology, CFGI, 2020.
     - year: 2018
       items: 
         - Best poster award, Rock slope stability symposium, 2018
-        - <a href='https://www.egu.eu/awards-medals/ospp-award/2018/mathieu-le-breton/'>Outstanding Student Poster Award<\a>, European Geoscience Union, 2018
+        - <a href='https://www.egu.eu/awards-medals/ospp-award/2018/mathieu-le-breton/'>
+        Outstanding Student Poster Award</a>, European Geoscience Union, 2018
+
+- title: Implication in scientific community
+  type: list
+  contents:
+    - Reviewer for the journals Geomorphology, Engineering Geology, IEEE Journal of Radio-Frequency Identification, HardwareX, Remote Sensing.
+    - Member of the European Geoscience Union.
+    - Member of the IEEE Microwave Theory and Technique Society - Technical Comitee 26.
+    - Invited researcher at ISTerre, Grenoble University, honorary activity.
+    - Science popularization at the exhibition Les Mondes Inconnus, Museum de Grenoble, 2018-2019.
 
 - title: Academic supervision
   type: list
